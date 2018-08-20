@@ -1,1 +1,1 @@
-麦芽Flume的serializer接口，实现将通用的json串解析成多行数据
+Flume鐨剆erializer鎺ュ彛锛屽疄鐜板皢閫氱敤鐨刯son涓茶В鏋愭垚澶氳鏁版嵁
